@@ -60,6 +60,7 @@ public class circlesif {
 			System.out.print("The circles do not intersect");
 		}
 		
+		keyboard.close();
 	}
 
 }
